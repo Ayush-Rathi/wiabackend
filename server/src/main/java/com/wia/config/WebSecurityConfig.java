@@ -1,3 +1,4 @@
+package com.wia.config;
 /*package com.bfwg.config;
 
 import org.springframework.beans.factory.annotation.Autowired;

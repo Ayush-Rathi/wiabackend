@@ -1,4 +1,4 @@
-package com.bfwg.model;
+package com.wia.model;
 
 public class SearchResults {
 	

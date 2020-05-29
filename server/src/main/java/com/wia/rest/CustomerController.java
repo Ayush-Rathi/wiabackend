@@ -1,4 +1,4 @@
-package com.bfwg.rest;
+package com.wia.rest;
 
 import static org.springframework.web.bind.annotation.RequestMethod.POST;
 
@@ -7,15 +7,15 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.bfwg.model.SearchResult;
-import com.bfwg.model.SearchResults;
+import com.wia.model.SearchResult;
+import com.wia.model.SearchResults;
 
 /**
  * Created by fan.jin on 2016-10-15.
  */
 
 @RestController
-@CrossOrigin(origins = "http://localhost:2200")
+@CrossOrigin(origins = "*")
 public class CustomerController {
 
 	@RequestMapping(method = POST, value = "/stollepp")

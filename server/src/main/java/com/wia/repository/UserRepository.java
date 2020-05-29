@@ -1,3 +1,4 @@
+package com.wia.repository;
 /*package com.bfwg.repository;
 
 import com.bfwg.model.User;
