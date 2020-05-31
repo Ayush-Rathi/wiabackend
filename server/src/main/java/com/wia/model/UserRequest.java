@@ -1,4 +1,4 @@
-package com.bfwg.model;
+/*package com.bfwg.model;
 
 
 public class UserRequest {
@@ -54,3 +54,4 @@ public class UserRequest {
     this.id = id;
   }
 }
+*/
